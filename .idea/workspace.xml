@@ -9,6 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1a02ffeb-7d30-43de-a270-2d5e9395e462" name="Changes" comment="Initialisation DataBaseAccess singleton utils">
       <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/api/DataGestion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/Urgence.java" afterDir="false" />
@@ -17,6 +18,24 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tp/groupe2/todolistedatabase/HelloResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/todolistedatabase/TodoRessource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/Urgence.java" beforeDir="false" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="a214d797-1270-42ce-8e62-742391b8efc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/todolistedatabase/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/todolistedatabase/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/Urgence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+=======
+    <list default="true" id="1a02ffeb-7d30-43de-a270-2d5e9395e462" name="Changes" comment="Ajout des packages et des models">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" afterDir="false" />
+>>>>>>> 5d8570ba33b042be96a65e01520f70886f8dc689
+>>>>>>> 225db803a2bd06bf0b5593f95a17316609d5953c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +89,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.applicationServers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -87,8 +124,9 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.applicationServers",
     "vue.rearranger.settings.migration": "true"
+>>>>>>> 5d8570ba33b042be96a65e01520f70886f8dc689
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="GlassFish 6.2023.2" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 6.2023.2" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/TodoListeDataBase-1.0-SNAPSHOT/api/todos" />
