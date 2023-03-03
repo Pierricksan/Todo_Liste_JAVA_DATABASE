@@ -9,12 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a02ffeb-7d30-43de-a270-2d5e9395e462" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/Urgence.java" afterDir="false" />
+    <list default="true" id="1a02ffeb-7d30-43de-a270-2d5e9395e462" name="Changes" comment="Ajout des packages et des models">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/groupe2/utils/DataBaseAccess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +36,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -58,13 +58,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/JAVA Outil/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.applicationServers",
     "vue.rearranger.settings.migration": "true"
@@ -152,8 +153,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677833095559</updated>
-      <workItem from="1677833097091" duration="1434000" />
+      <workItem from="1677833097091" duration="2224000" />
     </task>
+    <task id="LOCAL-00001" summary="Ajout des packages et des models">
+      <created>1677835399529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677835399529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout des packages et des models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout des packages et des models" />
   </component>
 </project>
